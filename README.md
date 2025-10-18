@@ -14,7 +14,7 @@ pip install ultralytics easyocr opencv-python
 ```
 2. Dataset
 
-This project was tested on the **License Plate Detection Dataset** from [Roboflow Universe]([https://universe.roboflow.com/username/license-plates-dataset](https://app.roboflow.com/sidg/cars-plates-sqjgv-jvvfe/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)).
+This project was tested on the **License Plate Detection Dataset** from [Roboflow Universe](https://app.roboflow.com/sidg/cars-plates-sqjgv-jvvfe/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true).
 
 - **Source**: Roboflow
 - **Dataset Version**: v3
