@@ -26,7 +26,11 @@ The custom-trained YOLOv8 model used in this project was obtained from the follo
 
 [[**<insert repo name here>**](https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8)]
 
-4. Add your file PATHS
+4. Add your file PATHS in cars_license_plate_ocr.py and run the program.
 
 PLATE_IMAGE_PATH 
 MODEL_PATH 
+
+5. Results
+
+![Detected License Plate](results/result.png)
