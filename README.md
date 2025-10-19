@@ -20,3 +20,13 @@ This project was tested on the **License Plate Detection Dataset** from [Roboflo
 - **Dataset Version**: v3
 - **License**: CC BY 4.0
 All dataset credits belong to the original contributors on Roboflow.
+
+3. YOLOv8 Model
+The custom-trained YOLOv8 model used in this project was obtained from the following GitHub repository:
+
+[[**<insert repo name here>**](https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8)]
+
+4. Add your file PATHS
+
+PLATE_IMAGE_PATH 
+MODEL_PATH 
